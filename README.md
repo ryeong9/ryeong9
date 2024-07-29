@@ -1,11 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 안녕하세요 최성령입니다.<br/><br/>
 <a href="https://github.com/ryeong9" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://instagram.com/aebonlee" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>&nbsp;
 
 #### :책:기술스택:책:
