@@ -1,4 +1,4 @@
-<center><img src=./logo.jpg width="auto" height="200px" /></center>
+
 안녕하세요 최성령입니다.<br/><br/>
 <a href="https://github.com/ryeong9" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
