@@ -1,8 +1,7 @@
 
 안녕하세요 최성령입니다.<br/><br/>
 <a href="https://github.com/ryeong9" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>&nbsp;
+</a>
 
 
 #### :책:기술스택:책:
